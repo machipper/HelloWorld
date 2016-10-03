@@ -1,6 +1,6 @@
 # HelloWorld
 Just another repository
 
-Welcome to my mind
-Swirling eddies of darkness
-Emergent of light
+Welcome to my mind\n
+Swirling eddies of darkness\n
+Emergent of light\n
