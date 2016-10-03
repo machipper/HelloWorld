@@ -1,5 +1,4 @@
 # HelloWorld
-Just another repository
 
 Welcome to my mind
 
